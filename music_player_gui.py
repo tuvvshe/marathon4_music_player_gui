@@ -18,6 +18,7 @@ for item in song_list:
 pygame.init()
 pygame.mixer.init()
 
+
 def play():
     pygame.mixer.music.load(play_list.get(tkr.ACTIVE))
     var.set(play_list.get(tkr.ACTIVE))
