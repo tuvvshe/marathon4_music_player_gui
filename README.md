@@ -1,5 +1,4 @@
 # marathon4_music_player_gui
-marathon4
 
 HiHi 👋, I'm Tuvshintur
 
